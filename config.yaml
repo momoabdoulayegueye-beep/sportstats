@@ -1,0 +1,20 @@
+# Leagues to track. Keys are ESPN league codes.
+# Add/remove freely — the pipeline reads this file.
+soccer:
+  fifa.world:      "FIFA World Cup 2026"
+  eng.1:           "Premier League"
+  esp.1:           "LaLiga"
+  ger.1:           "Bundesliga"
+  ita.1:           "Serie A"
+  fra.1:           "Ligue 1"
+  ned.1:           "Eredivisie"
+  por.1:           "Primeira Liga"
+  sco.1:           "Scottish Premiership"
+  bel.1:           "Belgian Pro League"
+  tur.1:           "Süper Lig"
+  uefa.champions:  "UEFA Champions League"
+
+# How many days back to fetch on each run (backfill deeper with --days)
+default_days_back: 14
+
+# Future sport modules plug in here (nfl, tennis, mma, boxing, basketball)

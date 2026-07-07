@@ -1,0 +1,52 @@
+---
+title: "SportStats — data exploration"
+format: html
+jupyter: python3
+---
+
+Your statistics playground. Render in RStudio (needs Quarto) or run chunks interactively.
+
+```{python}
+import sys, sqlite3
+from pathlib import Path
+import pandas as pd
+
+ROOT = Path.cwd().parent if Path.cwd().name == "notebooks" else Path.cwd()
+sys.path.insert(0, str(ROOT))
+
+df = pd.read_csv(ROOT / "data" / "matches.csv", parse_dates=["date"])
+df.groupby("league_name").size().sort_values(ascending=False)
+```
+
+## Biggest wins stored so far
+
+```{python}
+played = df[df.completed == True].copy()
+played["margin"] = (pd.to_numeric(played.home_score) - pd.to_numeric(played.away_score)).abs()
+cols = ["date", "league_name", "home_team", "home_score", "away_score", "away_team"]
+played.sort_values("margin", ascending=False)[cols].head(10)
+```
+
+## Standings, computed by your own module
+
+```{python}
+from src.soccer.standings import league_table
+league_table(df[df.league == "fifa.world"]).head(10)
+```
+
+## SQL practice (after `python -m src.common.db`)
+
+```{python}
+con = sqlite3.connect(ROOT / "data" / "sports.db")
+pd.read_sql("""
+    SELECT league_name,
+           COUNT(*)                            AS matches,
+           AVG(home_score + away_score)        AS avg_goals
+    FROM matches
+    WHERE completed = 1
+    GROUP BY league_name
+    ORDER BY avg_goals DESC
+""", con)
+```
+
+Ideas to try next: home advantage by league (t-test), goals-per-match distributions (Poisson fit?), Elo ratings over time.
