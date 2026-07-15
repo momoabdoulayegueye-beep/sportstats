@@ -99,7 +99,7 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 760511,fifa.world,FIFA World Cup 2026,2026-07-10,Spain,Belgium,2,1,post,True,SoFi Stadium
 760512,fifa.world,FIFA World Cup 2026,2026-07-11,Norway,England,1,2,post,True,Hard Rock Stadium
 760513,fifa.world,FIFA World Cup 2026,2026-07-12,Argentina,Switzerland,3,1,post,True,GEHA Field at Arrowhead Stadium
-760514,fifa.world,FIFA World Cup 2026,2026-07-14,France,Spain,0,0,pre,False,AT&T Stadium
+760514,fifa.world,FIFA World Cup 2026,2026-07-14,France,Spain,0,2,post,True,AT&T Stadium
 760515,fifa.world,FIFA World Cup 2026,2026-07-15,England,Argentina,0,0,pre,False,Mercedes-Benz Stadium
-760516,fifa.world,FIFA World Cup 2026,2026-07-18,Semifinal 1 Loser,Semifinal 2 Loser,0,0,pre,False,Hard Rock Stadium
-760517,fifa.world,FIFA World Cup 2026,2026-07-19,Semifinal 1 Winner,Semifinal 2 Winner,0,0,pre,False,MetLife Stadium
+760516,fifa.world,FIFA World Cup 2026,2026-07-18,France,Semifinal 2 Loser,0,0,pre,False,Hard Rock Stadium
+760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Semifinal 2 Winner,0,0,pre,False,MetLife Stadium
