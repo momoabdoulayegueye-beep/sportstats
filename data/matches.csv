@@ -102,4 +102,4 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 760514,fifa.world,FIFA World Cup 2026,2026-07-14,France,Spain,0,2,post,True,AT&T Stadium
 760515,fifa.world,FIFA World Cup 2026,2026-07-15,England,Argentina,1,2,post,True,Mercedes-Benz Stadium
 760516,fifa.world,FIFA World Cup 2026,2026-07-18,France,England,4,6,post,True,Hard Rock Stadium
-760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Argentina,0,0,pre,False,MetLife Stadium
+760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Argentina,1,0,post,True,MetLife Stadium
