@@ -103,3 +103,4 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 760515,fifa.world,FIFA World Cup 2026,2026-07-15,England,Argentina,1,2,post,True,Mercedes-Benz Stadium
 760516,fifa.world,FIFA World Cup 2026,2026-07-18,France,England,4,6,post,True,Hard Rock Stadium
 760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Argentina,1,0,post,True,MetLife Stadium
+401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,0,0,pre,False,Tannadice Park
