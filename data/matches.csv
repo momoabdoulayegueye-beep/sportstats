@@ -106,3 +106,5 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,0,0,pre,False,Tannadice Park
 401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,0,pre,False,Falkirk Stadium
 401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,0,0,pre,False,Pittodrie Stadium
+401878413,sco.1,Scottish Premiership,2026-08-02,St Johnstone,Kilmarnock,0,0,pre,False,McDiarmid Park
+401878412,sco.1,Scottish Premiership,2026-08-02,Hibernian,Motherwell,0,0,pre,False,Easter Road
