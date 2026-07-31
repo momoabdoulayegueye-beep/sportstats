@@ -1,4 +1,5 @@
 match_id,league,league_name,date,home_team,away_team,home_score,away_score,status,completed,venue
+401879041,bel.1,Belgian Pro League,2026-08-07,Club Brugge,KV Kortrijk,0,0,pre,False,Jan Breydel Stadium
 760415,fifa.world,FIFA World Cup 2026,2026-06-11,Mexico,South Africa,2,0,post,True,Estadio Banorte
 760414,fifa.world,FIFA World Cup 2026,2026-06-12,South Korea,Czechia,2,1,post,True,Estadio Akron
 760416,fifa.world,FIFA World Cup 2026,2026-06-12,Canada,Bosnia-Herzegovina,1,1,post,True,BMO Field
@@ -103,6 +104,8 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 760515,fifa.world,FIFA World Cup 2026,2026-07-15,England,Argentina,1,2,post,True,Mercedes-Benz Stadium
 760516,fifa.world,FIFA World Cup 2026,2026-07-18,France,England,4,6,post,True,Hard Rock Stadium
 760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Argentina,1,0,post,True,MetLife Stadium
+401875655,ned.1,Eredivisie,2026-08-07,SC Cambuur,Excelsior,0,0,pre,False,Kooi Stadium
+401885491,por.1,Primeira Liga,2026-08-07,Estoril,FC Famalicao,0,0,pre,False,Estádio António Coimbra da Mota
 401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,0,0,pre,False,Tannadice Park
 401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,0,pre,False,Falkirk Stadium
 401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,0,0,pre,False,Pittodrie Stadium
