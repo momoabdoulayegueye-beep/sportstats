@@ -1,5 +1,8 @@
 match_id,league,league_name,date,home_team,away_team,home_score,away_score,status,completed,venue
 401879041,bel.1,Belgian Pro League,2026-08-07,Club Brugge,KV Kortrijk,0,0,pre,False,Jan Breydel Stadium
+401879039,bel.1,Belgian Pro League,2026-08-08,Standard Liege,Cercle Brugge KSV,0,0,pre,False,Stade Maurice Dufrasne
+401879037,bel.1,Belgian Pro League,2026-08-08,KVC Westerlo,Union St.-Gilloise,0,0,pre,False,Het Kuipje
+401879038,bel.1,Belgian Pro League,2026-08-08,Sint-Truidense,Lommel SK,0,0,pre,False,Daio Wasabi Stayen Stadium
 760415,fifa.world,FIFA World Cup 2026,2026-06-11,Mexico,South Africa,2,0,post,True,Estadio Banorte
 760414,fifa.world,FIFA World Cup 2026,2026-06-12,South Korea,Czechia,2,1,post,True,Estadio Akron
 760416,fifa.world,FIFA World Cup 2026,2026-06-12,Canada,Bosnia-Herzegovina,1,1,post,True,BMO Field
@@ -105,10 +108,19 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 760516,fifa.world,FIFA World Cup 2026,2026-07-18,France,England,4,6,post,True,Hard Rock Stadium
 760517,fifa.world,FIFA World Cup 2026,2026-07-19,Spain,Argentina,1,0,post,True,MetLife Stadium
 401875655,ned.1,Eredivisie,2026-08-07,SC Cambuur,Excelsior,0,0,pre,False,Kooi Stadium
+401875654,ned.1,Eredivisie,2026-08-08,NEC Nijmegen,Telstar,0,0,pre,False,Goffertstadion
+401875653,ned.1,Eredivisie,2026-08-08,Go Ahead Eagles,Willem II,0,0,pre,False,De Adelaarshorst
+401875652,ned.1,Eredivisie,2026-08-08,PSV Eindhoven,Fortuna Sittard,0,0,pre,False,Philips Stadion
+401875651,ned.1,Eredivisie,2026-08-08,AZ Alkmaar,ADO Den Haag,0,0,pre,False,AFAS Stadion
 401885491,por.1,Primeira Liga,2026-08-07,Estoril,FC Famalicao,0,0,pre,False,Estádio António Coimbra da Mota
-401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,0,0,pre,False,Tannadice Park
+401885489,por.1,Primeira Liga,2026-08-08,Maritimo,Casa Pia,0,0,pre,False,Estádio do Marítimo
+401885484,por.1,Primeira Liga,2026-08-08,Vitória de Guimaraes,Arouca,0,0,pre,False,Estádio D. Afonso Henriques
+401885492,por.1,Primeira Liga,2026-08-08,Estrela,Sporting CP,0,0,pre,False,Estádio José Gomes
+401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,1,1,post,True,Tannadice Park
 401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,0,pre,False,Falkirk Stadium
 401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,0,0,pre,False,Pittodrie Stadium
 401878413,sco.1,Scottish Premiership,2026-08-02,St Johnstone,Kilmarnock,0,0,pre,False,McDiarmid Park
 401878412,sco.1,Scottish Premiership,2026-08-02,Hibernian,Motherwell,0,0,pre,False,Easter Road
 401878411,sco.1,Scottish Premiership,2026-08-03,Celtic,Dundee,0,0,pre,False,Celtic Park
+401878410,sco.1,Scottish Premiership,2026-08-08,Dundee,Aberdeen,0,0,pre,False,The Scot Foam Stadium at Dens Park
+401878407,sco.1,Scottish Premiership,2026-08-08,St Mirren,St Johnstone,0,0,pre,False,The SMISA Stadium
