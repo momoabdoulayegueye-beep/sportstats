@@ -3,6 +3,11 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 401879039,bel.1,Belgian Pro League,2026-08-08,Standard Liege,Cercle Brugge KSV,0,0,pre,False,Stade Maurice Dufrasne
 401879037,bel.1,Belgian Pro League,2026-08-08,KVC Westerlo,Union St.-Gilloise,0,0,pre,False,Het Kuipje
 401879038,bel.1,Belgian Pro League,2026-08-08,Sint-Truidense,Lommel SK,0,0,pre,False,Daio Wasabi Stayen Stadium
+401879036,bel.1,Belgian Pro League,2026-08-09,KAA Gent,KV Mechelen,0,0,pre,False,Ghelamco Arena
+401879040,bel.1,Belgian Pro League,2026-08-09,Royal Charleroi SC,OH Leuven,0,0,pre,False,Stade du Pays de Charleroi
+401879035,bel.1,Belgian Pro League,2026-08-09,Zulte-Waregem,Racing Genk,0,0,pre,False,Elindus Arena
+401879034,bel.1,Belgian Pro League,2026-08-09,Anderlecht,RAAL La Louvière,0,0,pre,False,Lotto Park
+401879033,bel.1,Belgian Pro League,2026-08-09,Antwerp,Waasland-Beveren,0,0,pre,False,Bosuilstadion
 760415,fifa.world,FIFA World Cup 2026,2026-06-11,Mexico,South Africa,2,0,post,True,Estadio Banorte
 760414,fifa.world,FIFA World Cup 2026,2026-06-12,South Korea,Czechia,2,1,post,True,Estadio Akron
 760416,fifa.world,FIFA World Cup 2026,2026-06-12,Canada,Bosnia-Herzegovina,1,1,post,True,BMO Field
@@ -112,15 +117,27 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 401875653,ned.1,Eredivisie,2026-08-08,Go Ahead Eagles,Willem II,0,0,pre,False,De Adelaarshorst
 401875652,ned.1,Eredivisie,2026-08-08,PSV Eindhoven,Fortuna Sittard,0,0,pre,False,Philips Stadion
 401875651,ned.1,Eredivisie,2026-08-08,AZ Alkmaar,ADO Den Haag,0,0,pre,False,AFAS Stadion
+401875650,ned.1,Eredivisie,2026-08-09,Sparta Rotterdam,Feyenoord Rotterdam,0,0,pre,False,Sparta-Stadion Het Kasteel
+401875649,ned.1,Eredivisie,2026-08-09,FC Groningen,FC Utrecht,0,0,pre,False,Euroborg
+401875648,ned.1,Eredivisie,2026-08-09,PEC Zwolle,Ajax Amsterdam,0,0,pre,False,MAC³PARK Stadion
+401875647,ned.1,Eredivisie,2026-08-09,Heerenveen,FC Twente,0,0,pre,False,Abe Lenstra Stadion
 401885491,por.1,Primeira Liga,2026-08-07,Estoril,FC Famalicao,0,0,pre,False,Estádio António Coimbra da Mota
 401885489,por.1,Primeira Liga,2026-08-08,Maritimo,Casa Pia,0,0,pre,False,Estádio do Marítimo
 401885484,por.1,Primeira Liga,2026-08-08,Vitória de Guimaraes,Arouca,0,0,pre,False,Estádio D. Afonso Henriques
 401885492,por.1,Primeira Liga,2026-08-08,Estrela,Sporting CP,0,0,pre,False,Estádio José Gomes
+401885487,por.1,Primeira Liga,2026-08-09,FC Porto,Alverca,0,0,pre,False,Estádio do Dragão
+401885485,por.1,Primeira Liga,2026-08-09,Benfica,Académico de Viseu,0,0,pre,False,Estádio da Luz
+401885488,por.1,Primeira Liga,2026-08-09,Moreirense,Braga,0,0,pre,False,Estádio Comendador Joaquim de Almeida Freitas
+401885490,por.1,Primeira Liga,2026-08-09,Gil Vicente,Rio Ave,0,0,pre,False,Estádio Cidade de Barcelos
 401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,1,1,post,True,Tannadice Park
-401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,0,pre,False,Falkirk Stadium
-401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,0,0,pre,False,Pittodrie Stadium
+401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,2,post,True,Falkirk Stadium
+401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,2,1,post,True,Pittodrie Stadium
 401878413,sco.1,Scottish Premiership,2026-08-02,St Johnstone,Kilmarnock,0,0,pre,False,McDiarmid Park
 401878412,sco.1,Scottish Premiership,2026-08-02,Hibernian,Motherwell,0,0,pre,False,Easter Road
 401878411,sco.1,Scottish Premiership,2026-08-03,Celtic,Dundee,0,0,pre,False,Celtic Park
 401878410,sco.1,Scottish Premiership,2026-08-08,Dundee,Aberdeen,0,0,pre,False,The Scot Foam Stadium at Dens Park
 401878407,sco.1,Scottish Premiership,2026-08-08,St Mirren,St Johnstone,0,0,pre,False,The SMISA Stadium
+401878406,sco.1,Scottish Premiership,2026-08-09,Kilmarnock,Celtic,0,0,pre,False,The BBSP Stadium
+401878409,sco.1,Scottish Premiership,2026-08-09,Heart of Midlothian,Dundee United,0,0,pre,False,Tynecastle Park
+401878408,sco.1,Scottish Premiership,2026-08-09,Motherwell,Falkirk,0,0,pre,False,Fir Park
+401878405,sco.1,Scottish Premiership,2026-08-09,Rangers,Hibernian,0,0,pre,False,Ibrox Stadium
