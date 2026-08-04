@@ -127,15 +127,15 @@ match_id,league,league_name,date,home_team,away_team,home_score,away_score,statu
 401885492,por.1,Primeira Liga,2026-08-08,Estrela,Sporting CP,0,0,pre,False,Estádio José Gomes
 401885487,por.1,Primeira Liga,2026-08-09,FC Porto,Alverca,0,0,pre,False,Estádio do Dragão
 401885485,por.1,Primeira Liga,2026-08-09,Benfica,Académico de Viseu,0,0,pre,False,Estádio da Luz
-401885488,por.1,Primeira Liga,2026-08-09,Moreirense,Braga,0,0,pre,False,Estádio Comendador Joaquim de Almeida Freitas
 401885490,por.1,Primeira Liga,2026-08-09,Gil Vicente,Rio Ave,0,0,pre,False,Estádio Cidade de Barcelos
+401885488,por.1,Primeira Liga,2026-08-09,Moreirense,Braga,0,0,pre,False,Estádio Comendador Joaquim de Almeida Freitas
 401885486,por.1,Primeira Liga,2026-08-10,Santa Clara,C.D. Nacional,0,0,pre,False,Estádio de São Miguel
 401878416,sco.1,Scottish Premiership,2026-07-31,Dundee United,Rangers,1,1,post,True,Tannadice Park
 401878415,sco.1,Scottish Premiership,2026-08-01,Falkirk,St Mirren,0,2,post,True,Falkirk Stadium
 401878414,sco.1,Scottish Premiership,2026-08-01,Aberdeen,Heart of Midlothian,2,1,post,True,Pittodrie Stadium
 401878413,sco.1,Scottish Premiership,2026-08-02,St Johnstone,Kilmarnock,4,3,post,True,McDiarmid Park
 401878412,sco.1,Scottish Premiership,2026-08-02,Hibernian,Motherwell,1,2,post,True,Easter Road
-401878411,sco.1,Scottish Premiership,2026-08-03,Celtic,Dundee,0,0,pre,False,Celtic Park
+401878411,sco.1,Scottish Premiership,2026-08-03,Celtic,Dundee,1,0,post,True,Celtic Park
 401878410,sco.1,Scottish Premiership,2026-08-08,Dundee,Aberdeen,0,0,pre,False,The Scot Foam Stadium at Dens Park
 401878407,sco.1,Scottish Premiership,2026-08-08,St Mirren,St Johnstone,0,0,pre,False,The SMISA Stadium
 401878406,sco.1,Scottish Premiership,2026-08-09,Kilmarnock,Celtic,0,0,pre,False,The BBSP Stadium
